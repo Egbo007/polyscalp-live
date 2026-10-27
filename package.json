@@ -1,0 +1,6 @@
+{
+  "name": "polyscalp-live",
+  "private": true,
+  "type": "module",
+  "dependencies": { "axios": "^1.7.9" }
+}
